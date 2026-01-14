@@ -1,7 +1,7 @@
 {
   "name": "extension-dynamiclore",
-  "version": "1.0.0",
-  "description": "SillyTavern extension for automatically updating World Info",
+  "version": "1.0.0.1sl0p",
+  "description": "SillyTavern extension for hopefully automatically updating World Info",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=production",
@@ -13,7 +13,7 @@
     "worldinfo",
     "lorebook"
   ],
-  "author": "Your Name",
+  "author": "Mister",
   "license": "AGPL-3.0",
   "devDependencies": {
     "@babel/core": "^7.22.5",
