@@ -1,7 +1,7 @@
 {
   "name": "Extension-DynamicLore",
   "display_name": "DynamicLore",
-  "version": "1.0.0.1slop",
+  "version": "1.0.0.1sl0p",
   "description": "Hopefully updates World Info using your connected LLM",
   "author": "Mister",
   "js": "dist/index.js",

@@ -1,4 +1,4 @@
-import { extension_settings } from "../../extensions.js";
+import { extension_settings } from "../../../extensions.js";
 import { addWorldInfoEntry, updateWorldInfoEntry } from "./functions.js";
 
 // Create UI elements

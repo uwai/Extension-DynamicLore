@@ -1,8 +1,8 @@
-import { extension_settings, getContext, eventSource, event_types } from "../../extensions.js";
-import { getRequestHeaders } from "../../extensions.js";
-import { saveSettingsDebounced } from "../../extensions.js";
-import { registerSlashCommand } from "../../slash-commands.js";
-import { world_info } from "../../world-info.js";
+import { extension_settings, getContext, eventSource, event_types } from "../../../extensions.js";
+import { getRequestHeaders } from "../../../extensions.js";
+import { saveSettingsDebounced } from "../../../extensions.js";
+import { registerSlashCommand } from "../../../slash-commands.js";
+import { world_info } from "../../../world-info.js";
 import { analyzeMessages } from "./dynamicLore.js";
 import { createUI } from "./ui.js";
 import { addWorldInfoEntry, updateWorldInfoEntry } from "./functions.js";

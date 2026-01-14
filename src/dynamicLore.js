@@ -1,5 +1,5 @@
-import { callPopup } from "../../extensions.js";
-import { world_info } from "../../world-info.js";
+import { callPopup } from "../../../extensions.js";
+import { world_info } from "../../../world-info.js";
 
 // Helper function to simulate getRequestHeaders
 function getRequestHeaders() {

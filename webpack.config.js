@@ -25,9 +25,9 @@ module.exports = {
         }
     },
     externals: {
-    '../../extensions.js': 'extensions',
-    '../../world-info.js': 'world-info',
-    '../../slash-commands.js': 'slash-commands'
+    '../../../extensions.js': 'extensions',
+    '../../../world-info.js': 'world-info',
+    '../../../slash-commands.js': 'slash-commands'
 },
     module: {
         rules: [

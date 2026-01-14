@@ -1,4 +1,4 @@
-import { world_info } from "../../world-info.js";
+import { world_info } from "../../../world-info.js";
 
 // World Info manipulation functions
 export function addWorldInfoEntry(entry) {
