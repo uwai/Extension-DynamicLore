@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-lore",
+  "name": "Extension-DynamicLore",
   "display_name": "DynamicLore",
   "version": "1.0.0.1slop",
   "description": "Hopefully updates World Info using your connected LLM",
