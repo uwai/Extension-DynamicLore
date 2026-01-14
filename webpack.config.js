@@ -25,10 +25,10 @@ module.exports = {
         }
     },
     externals: {
-        '../../../../scripts/extensions.js': 'extensions',
-        '../../../../scripts/world-info.js': 'world-info',
-        '../../../../scripts/slash-commands.js': 'slash-commands'
-    },
+    '../../extensions.js': 'extensions',
+    '../../world-info.js': 'world-info',
+    '../../slash-commands.js': 'slash-commands'
+},
     module: {
         rules: [
             {

@@ -1,9 +1,9 @@
 {
   "name": "dynamic-lore",
   "display_name": "DynamicLore",
-  "version": "1.0.0",
-  "description": "Automatically updates World Info using your connected LLM",
-  "author": "Your Name",
+  "version": "1.0.0.1slop",
+  "description": "Hopefully updates World Info using your connected LLM",
+  "author": "Mister",
   "js": "dist/index.js",
   "css": "style.css",
   "requires": [],
