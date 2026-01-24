@@ -2,6 +2,8 @@
 
 **This extension is not affiliated with or endorsed by the SillyTavern team. Use at your own risk.**
 
+*Human Note: Forked for review and fixes(?). **Currently not functional**
+
 *Human Note: Completely created by AI (Claude 3.7 Sonnett with Reasoning). I don't know if or how this works. Try at your own risk.*
 *Human Note: Completely fixed by AI (Claude 3.5 Sonnett with Reasoning). I don't know if or how this works. Try at your own risk.*
 
